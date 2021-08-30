@@ -1,1 +1,46 @@
-
+[
+  {
+    "crypto": {
+      "name": "",
+      "symbol": "",
+      "logo": "",
+      "website": []
+    },
+    "payment": {
+      "address": "",
+      "network": "ERC20",
+      "blockchain": "Ethereum Mainnet"
+    },
+    "type": [
+      "testnet",
+      "mainnet"
+    ],
+    "sources": [
+      {
+        "url": "",
+        "title": ""
+      },
+      {
+        "url": "",
+        "title": ""
+      },
+      {
+        "url": "",
+        "title": ""
+      }
+    ],
+    "servers": [
+      {
+        "name": "",
+        "ip": "",
+        "port": [],
+        "location": {
+          "city": "",
+          "country": ""
+        },
+        "provider": "",
+        "ip_type": "hosting"
+      }
+    ]
+  }
+]
